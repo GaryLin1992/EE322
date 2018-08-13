@@ -23,3 +23,4 @@ Lab 5
 
 Lab 6
 - Public Address (PA) Amplifier
+  - https://www.youtube.com/watch?v=TnBjgLXbeUQ
